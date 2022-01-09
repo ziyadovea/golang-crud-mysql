@@ -14,7 +14,7 @@
 * "/bookkeeping/add" - метод GET - страница с формами для ввода данных, метод POST - добавление записи.
 * "/bookkeeping/update/ -  метод GET - страница с формами для ввода данных, метод POST - добавление записи.
 
-Для работы с HTTP использует стандартный пакет "net/http", для работы с БД - стандартный пакет "database/sql" с драйвером [github.com/go-sql-driver/mysql](github.com/go-sql-driver/mysql).
+Для работы с HTTP использует стандартный пакет "net/http", для работы с БД - стандартный пакет "database/sql" с драйвером ["github.com/go-sql-driver/mysql"](https://github.com/go-sql-driver/mysql).
 Для логирования используется стандартный пакет "log".
 Для создание динамических HTML страниц используются шаблоны из стандартного пакета "html/template".
 Для создания стилей используется фреймворк bootstrap5.
