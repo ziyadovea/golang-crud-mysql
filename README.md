@@ -1,6 +1,6 @@
 # golang-crud-mysql
 
-Приложение представляет собой API на языке Golang с функциями CRUD для MySQL.
+Приложение представляет собой API на языке Golang с функциями CRUD для MySQL. <br>
 Также реализован UI при помощи HTML5, CSS3, немного JQuery.
 
 В БД две таблицы: Работники (Workers) и Бухгалтерия (Bookkeeping).
